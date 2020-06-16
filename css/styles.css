@@ -1011,10 +1011,17 @@ img {
 .form-policy {
   display: flex;
   align-items: center;
+  justify-content: center;
   margin-bottom: 30px;
   font-size: 14px;
   line-height: 1.71;
   color: var(--secondary-text-color);
+}
+
+.policy-lable {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .policy-terms {
